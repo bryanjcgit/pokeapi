@@ -1,0 +1,42 @@
+com.myapp-tracing-1.1.0-0 C:\Users\bryan\.gradle\caches\8.8\transforms\00d0955b90726a79a0e63ec381c79383\transformed\tracing-1.1.0\res
+com.myapp-emoji2-views-helper-1.2.0-1 C:\Users\bryan\.gradle\caches\8.8\transforms\01873da0c5609b1596ff5981245baa75\transformed\emoji2-views-helper-1.2.0\res
+com.myapp-core-1.9.0-2 C:\Users\bryan\.gradle\caches\8.8\transforms\0c02aa65ff8b11d5022566d0302b25e2\transformed\core-1.9.0\res
+com.myapp-viewpager2-1.0.0-3 C:\Users\bryan\.gradle\caches\8.8\transforms\18f1bbee3f923ca947bc828439939bb1\transformed\viewpager2-1.0.0\res
+com.myapp-coordinatorlayout-1.2.0-4 C:\Users\bryan\.gradle\caches\8.8\transforms\1dc1d12d38459720a72b752a4e174fd0\transformed\coordinatorlayout-1.2.0\res
+com.myapp-startup-runtime-1.1.1-5 C:\Users\bryan\.gradle\caches\8.8\transforms\1f1087a1177fb6473d4ac94aef517df1\transformed\startup-runtime-1.1.1\res
+com.myapp-lifecycle-livedata-core-2.5.1-6 C:\Users\bryan\.gradle\caches\8.8\transforms\220d665071991af876da6d069475b684\transformed\lifecycle-livedata-core-2.5.1\res
+com.myapp-swiperefreshlayout-1.1.0-7 C:\Users\bryan\.gradle\caches\8.8\transforms\30c50bc191cd430a0d7e4c7aad4add26\transformed\swiperefreshlayout-1.1.0\res
+com.myapp-core-ktx-1.9.0-8 C:\Users\bryan\.gradle\caches\8.8\transforms\35400af012b171af2ce59f5e3831b955\transformed\core-ktx-1.9.0\res
+com.myapp-activity-1.6.0-9 C:\Users\bryan\.gradle\caches\8.8\transforms\3d7a15ebb81e252a76b0dfdb7ef4c2fb\transformed\activity-1.6.0\res
+com.myapp-appcompat-resources-1.6.1-10 C:\Users\bryan\.gradle\caches\8.8\transforms\3f776f65b9209b2fc589c280610acedc\transformed\appcompat-resources-1.6.1\res
+com.myapp-appcompat-1.6.1-11 C:\Users\bryan\.gradle\caches\8.8\transforms\444ae3e40e2b43d3188cf28e0b4dc278\transformed\appcompat-1.6.1\res
+com.myapp-recyclerview-1.1.0-12 C:\Users\bryan\.gradle\caches\8.8\transforms\541b3e7c0713ef5e2394cc535b04d8d4\transformed\recyclerview-1.1.0\res
+com.myapp-fragment-1.3.6-13 C:\Users\bryan\.gradle\caches\8.8\transforms\587d7a53b28fe53d930a06af037e1c06\transformed\fragment-1.3.6\res
+com.myapp-lifecycle-process-2.4.1-14 C:\Users\bryan\.gradle\caches\8.8\transforms\5d6bcc831bb7fbe537a65d55f24ce6d0\transformed\lifecycle-process-2.4.1\res
+com.myapp-transition-1.2.0-15 C:\Users\bryan\.gradle\caches\8.8\transforms\742a30ce96783ca89e871dce8e35c39b\transformed\transition-1.2.0\res
+com.myapp-drawee-3.2.0-16 C:\Users\bryan\.gradle\caches\8.8\transforms\75c9ced945ed9ba75181680a4ddba817\transformed\drawee-3.2.0\res
+com.myapp-annotation-experimental-1.3.0-17 C:\Users\bryan\.gradle\caches\8.8\transforms\7c4444505c3257c7bcef24da0e5587f9\transformed\annotation-experimental-1.3.0\res
+com.myapp-cardview-1.0.0-18 C:\Users\bryan\.gradle\caches\8.8\transforms\80c5ac0ee10c6aa01ab9f65111501db7\transformed\cardview-1.0.0\res
+com.myapp-constraintlayout-2.0.1-19 C:\Users\bryan\.gradle\caches\8.8\transforms\8c201fd86dec857e152f868b46aa6a9c\transformed\constraintlayout-2.0.1\res
+com.myapp-react-android-0.75.2-debug-20 C:\Users\bryan\.gradle\caches\8.8\transforms\b05a070e407358a86ce459a71fac5137\transformed\react-android-0.75.2-debug\res
+com.myapp-emoji2-1.2.0-21 C:\Users\bryan\.gradle\caches\8.8\transforms\b49772d412e698ac43d13e607ca64155\transformed\emoji2-1.2.0\res
+com.myapp-drawerlayout-1.1.1-22 C:\Users\bryan\.gradle\caches\8.8\transforms\b7c2b8e2688fb6d642072c4717c7048b\transformed\drawerlayout-1.1.1\res
+com.myapp-material-1.6.1-23 C:\Users\bryan\.gradle\caches\8.8\transforms\d430c1ba7558782a5fdfdacec9725d7b\transformed\material-1.6.1\res
+com.myapp-lifecycle-viewmodel-savedstate-2.5.1-24 C:\Users\bryan\.gradle\caches\8.8\transforms\d579ac8a97a15ec05a69ba40877ccde2\transformed\lifecycle-viewmodel-savedstate-2.5.1\res
+com.myapp-lifecycle-viewmodel-2.5.1-25 C:\Users\bryan\.gradle\caches\8.8\transforms\d610ae07c326c52bd9d3c2c5fa9e692f\transformed\lifecycle-viewmodel-2.5.1\res
+com.myapp-autofill-1.1.0-26 C:\Users\bryan\.gradle\caches\8.8\transforms\e428f87a28e05b2239e3dbb19498888c\transformed\autofill-1.1.0\res
+com.myapp-savedstate-1.2.0-27 C:\Users\bryan\.gradle\caches\8.8\transforms\f66aa40b85afcf25b7428918096c2157\transformed\savedstate-1.2.0\res
+com.myapp-lifecycle-runtime-2.5.1-28 C:\Users\bryan\.gradle\caches\8.8\transforms\f7ff4ed6d33f9b1177c3ea8f0651504b\transformed\lifecycle-runtime-2.5.1\res
+com.myapp-pngs-29 D:\develop\pruebas_ALL\react native\MyApp\android\app\build\generated\res\pngs\debug
+com.myapp-resValues-30 D:\develop\pruebas_ALL\react native\MyApp\android\app\build\generated\res\resValues\debug
+com.myapp-packageDebugResources-31 D:\develop\pruebas_ALL\react native\MyApp\android\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.myapp-packageDebugResources-32 D:\develop\pruebas_ALL\react native\MyApp\android\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.myapp-debug-33 D:\develop\pruebas_ALL\react native\MyApp\android\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.myapp-debug-34 D:\develop\pruebas_ALL\react native\MyApp\android\app\src\debug\res
+com.myapp-main-35 D:\develop\pruebas_ALL\react native\MyApp\android\app\src\main\res
+com.myapp-debug-36 D:\develop\pruebas_ALL\react native\MyApp\node_modules\@react-native-masked-view\masked-view\android\build\intermediates\packaged_res\debug\packageDebugResources
+com.myapp-debug-37 D:\develop\pruebas_ALL\react native\MyApp\node_modules\react-native-gesture-handler\android\build\intermediates\packaged_res\debug\packageDebugResources
+com.myapp-debug-38 D:\develop\pruebas_ALL\react native\MyApp\node_modules\react-native-image-colors\android\build\intermediates\packaged_res\debug\packageDebugResources
+com.myapp-debug-39 D:\develop\pruebas_ALL\react native\MyApp\node_modules\react-native-safe-area-context\android\build\intermediates\packaged_res\debug\packageDebugResources
+com.myapp-debug-40 D:\develop\pruebas_ALL\react native\MyApp\node_modules\react-native-screens\android\build\intermediates\packaged_res\debug\packageDebugResources
+com.myapp-debug-41 D:\develop\pruebas_ALL\react native\MyApp\node_modules\react-native-vector-icons\android\build\intermediates\packaged_res\debug\packageDebugResources

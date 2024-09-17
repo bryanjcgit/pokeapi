@@ -1,0 +1,153 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.myapp"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="23"
+9        android:targetSdkVersion="34" />
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->D:\develop\pruebas_ALL\react native\MyApp\android\app\src\main\AndroidManifest.xml:3:5-67
+11-->D:\develop\pruebas_ALL\react native\MyApp\android\app\src\main\AndroidManifest.xml:3:22-64
+12    <uses-permission android:name="android.permission.ACCEPT_HANDOVER" />
+12-->D:\develop\pruebas_ALL\react native\MyApp\android\app\src\main\AndroidManifest.xml:5:5-74
+12-->D:\develop\pruebas_ALL\react native\MyApp\android\app\src\main\AndroidManifest.xml:5:22-71
+13    <uses-permission android:name="android.permission.ACCESS_BACKGROUND_LOCATION" />
+13-->D:\develop\pruebas_ALL\react native\MyApp\android\app\src\main\AndroidManifest.xml:6:5-85
+13-->D:\develop\pruebas_ALL\react native\MyApp\android\app\src\main\AndroidManifest.xml:6:22-82
+14    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+14-->D:\develop\pruebas_ALL\react native\MyApp\android\app\src\main\AndroidManifest.xml:7:5-81
+14-->D:\develop\pruebas_ALL\react native\MyApp\android\app\src\main\AndroidManifest.xml:7:22-78
+15    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+15-->D:\develop\pruebas_ALL\react native\MyApp\android\app\src\main\AndroidManifest.xml:8:5-79
+15-->D:\develop\pruebas_ALL\react native\MyApp\android\app\src\main\AndroidManifest.xml:8:22-76
+16    <uses-permission android:name="android.permission.ACCESS_MEDIA_LOCATION" />
+16-->D:\develop\pruebas_ALL\react native\MyApp\android\app\src\main\AndroidManifest.xml:9:5-80
+16-->D:\develop\pruebas_ALL\react native\MyApp\android\app\src\main\AndroidManifest.xml:9:22-77
+17
+18    <permission
+18-->[androidx.core:core:1.9.0] C:\Users\bryan\.gradle\caches\8.8\transforms\0c02aa65ff8b11d5022566d0302b25e2\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+19        android:name="com.myapp.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+19-->[androidx.core:core:1.9.0] C:\Users\bryan\.gradle\caches\8.8\transforms\0c02aa65ff8b11d5022566d0302b25e2\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+20        android:protectionLevel="signature" />
+20-->[androidx.core:core:1.9.0] C:\Users\bryan\.gradle\caches\8.8\transforms\0c02aa65ff8b11d5022566d0302b25e2\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+21
+22    <uses-permission android:name="com.myapp.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+22-->[androidx.core:core:1.9.0] C:\Users\bryan\.gradle\caches\8.8\transforms\0c02aa65ff8b11d5022566d0302b25e2\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+22-->[androidx.core:core:1.9.0] C:\Users\bryan\.gradle\caches\8.8\transforms\0c02aa65ff8b11d5022566d0302b25e2\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+23    <!--
+24 <uses-permission android:name="android.permission.ACTIVITY_RECOGNITION" />
+25    <uses-permission android:name="com.android.voicemail.permission.ADD_VOICEMAIL" />
+26    <uses-permission android:name="android.permission.ANSWER_PHONE_CALLS" />
+27    <uses-permission android:name="android.permission.BLUETOOTH_ADVERTISE" />
+28    <uses-permission android:name="android.permission.BLUETOOTH_CONNECT" />
+29    <uses-permission android:name="android.permission.BLUETOOTH_SCAN" />
+30    <uses-permission android:name="android.permission.BODY_SENSORS" />
+31    <uses-permission android:name="android.permission.BODY_SENSORS_BACKGROUND" />
+32    <uses-permission android:name="android.permission.CALL_PHONE" />
+33    <uses-permission android:name="android.permission.CAMERA" />
+34    <uses-permission android:name="android.permission.GET_ACCOUNTS" />
+35    <uses-permission android:name="android.permission.NEARBY_WIFI_DEVICES" />
+36    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
+37    <uses-permission android:name="android.permission.PROCESS_OUTGOING_CALLS" />
+38    <uses-permission android:name="android.permission.READ_CALENDAR" />
+39    <uses-permission android:name="android.permission.READ_CALL_LOG" />
+40    <uses-permission android:name="android.permission.READ_CONTACTS" />
+41    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+42    <uses-permission android:name="android.permission.READ_MEDIA_AUDIO" />
+43    <uses-permission android:name="android.permission.READ_MEDIA_IMAGES" />
+44    <uses-permission android:name="android.permission.READ_MEDIA_VIDEO" />
+45    <uses-permission android:name="android.permission.READ_MEDIA_VISUAL_USER_SELECTED" />
+46    <uses-permission android:name="android.permission.READ_PHONE_NUMBERS" />
+47    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+48    <uses-permission android:name="android.permission.READ_SMS" />
+49    <uses-permission android:name="android.permission.RECEIVE_MMS" />
+50    <uses-permission android:name="android.permission.RECEIVE_SMS" />
+51    <uses-permission android:name="android.permission.RECEIVE_WAP_PUSH" />
+52    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+53    <uses-permission android:name="android.permission.SEND_SMS" />
+54    <uses-permission android:name="android.permission.USE_SIP" />
+55    <uses-permission android:name="android.permission.UWB_RANGING" />
+56    <uses-permission android:name="android.permission.WRITE_CALENDAR" />
+57    <uses-permission android:name="android.permission.WRITE_CALL_LOG" />
+58    <uses-permission android:name="android.permission.WRITE_CONTACTS" />
+59    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+60    -->
+61    <application
+61-->D:\develop\pruebas_ALL\react native\MyApp\android\app\src\main\AndroidManifest.xml:47:5-67:19
+62        android:name="com.myapp.MainApplication"
+62-->D:\develop\pruebas_ALL\react native\MyApp\android\app\src\main\AndroidManifest.xml:48:7-38
+63        android:allowBackup="false"
+63-->D:\develop\pruebas_ALL\react native\MyApp\android\app\src\main\AndroidManifest.xml:52:7-34
+64        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+64-->[androidx.core:core:1.9.0] C:\Users\bryan\.gradle\caches\8.8\transforms\0c02aa65ff8b11d5022566d0302b25e2\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
+65        android:extractNativeLibs="false"
+66        android:icon="@mipmap/ic_launcher"
+66-->D:\develop\pruebas_ALL\react native\MyApp\android\app\src\main\AndroidManifest.xml:50:7-41
+67        android:label="@string/app_name"
+67-->D:\develop\pruebas_ALL\react native\MyApp\android\app\src\main\AndroidManifest.xml:49:7-39
+68        android:roundIcon="@mipmap/ic_launcher"
+68-->D:\develop\pruebas_ALL\react native\MyApp\android\app\src\main\AndroidManifest.xml:51:7-46
+69        android:supportsRtl="true"
+69-->D:\develop\pruebas_ALL\react native\MyApp\android\app\src\main\AndroidManifest.xml:54:7-33
+70        android:theme="@style/AppTheme" >
+70-->D:\develop\pruebas_ALL\react native\MyApp\android\app\src\main\AndroidManifest.xml:53:7-38
+71        <activity
+71-->D:\develop\pruebas_ALL\react native\MyApp\android\app\src\main\AndroidManifest.xml:55:7-66:18
+72            android:name="com.myapp.MainActivity"
+72-->D:\develop\pruebas_ALL\react native\MyApp\android\app\src\main\AndroidManifest.xml:56:9-37
+73            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|screenSize|smallestScreenSize|uiMode"
+73-->D:\develop\pruebas_ALL\react native\MyApp\android\app\src\main\AndroidManifest.xml:58:9-118
+74            android:exported="true"
+74-->D:\develop\pruebas_ALL\react native\MyApp\android\app\src\main\AndroidManifest.xml:61:9-32
+75            android:label="@string/app_name"
+75-->D:\develop\pruebas_ALL\react native\MyApp\android\app\src\main\AndroidManifest.xml:57:9-41
+76            android:launchMode="singleTask"
+76-->D:\develop\pruebas_ALL\react native\MyApp\android\app\src\main\AndroidManifest.xml:59:9-40
+77            android:windowSoftInputMode="adjustResize" >
+77-->D:\develop\pruebas_ALL\react native\MyApp\android\app\src\main\AndroidManifest.xml:60:9-51
+78            <intent-filter>
+78-->D:\develop\pruebas_ALL\react native\MyApp\android\app\src\main\AndroidManifest.xml:62:9-65:25
+79                <action android:name="android.intent.action.MAIN" />
+79-->D:\develop\pruebas_ALL\react native\MyApp\android\app\src\main\AndroidManifest.xml:63:13-65
+79-->D:\develop\pruebas_ALL\react native\MyApp\android\app\src\main\AndroidManifest.xml:63:21-62
+80
+81                <category android:name="android.intent.category.LAUNCHER" />
+81-->D:\develop\pruebas_ALL\react native\MyApp\android\app\src\main\AndroidManifest.xml:64:13-73
+81-->D:\develop\pruebas_ALL\react native\MyApp\android\app\src\main\AndroidManifest.xml:64:23-70
+82            </intent-filter>
+83        </activity>
+84
+85        <provider
+85-->[androidx.emoji2:emoji2:1.2.0] C:\Users\bryan\.gradle\caches\8.8\transforms\b49772d412e698ac43d13e607ca64155\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+86            android:name="androidx.startup.InitializationProvider"
+86-->[androidx.emoji2:emoji2:1.2.0] C:\Users\bryan\.gradle\caches\8.8\transforms\b49772d412e698ac43d13e607ca64155\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
+87            android:authorities="com.myapp.androidx-startup"
+87-->[androidx.emoji2:emoji2:1.2.0] C:\Users\bryan\.gradle\caches\8.8\transforms\b49772d412e698ac43d13e607ca64155\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
+88            android:exported="false" >
+88-->[androidx.emoji2:emoji2:1.2.0] C:\Users\bryan\.gradle\caches\8.8\transforms\b49772d412e698ac43d13e607ca64155\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
+89            <meta-data
+89-->[androidx.emoji2:emoji2:1.2.0] C:\Users\bryan\.gradle\caches\8.8\transforms\b49772d412e698ac43d13e607ca64155\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+90                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+90-->[androidx.emoji2:emoji2:1.2.0] C:\Users\bryan\.gradle\caches\8.8\transforms\b49772d412e698ac43d13e607ca64155\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
+91                android:value="androidx.startup" />
+91-->[androidx.emoji2:emoji2:1.2.0] C:\Users\bryan\.gradle\caches\8.8\transforms\b49772d412e698ac43d13e607ca64155\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
+92            <meta-data
+92-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\bryan\.gradle\caches\8.8\transforms\5d6bcc831bb7fbe537a65d55f24ce6d0\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+93                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+93-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\bryan\.gradle\caches\8.8\transforms\5d6bcc831bb7fbe537a65d55f24ce6d0\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
+94                android:value="androidx.startup" />
+94-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\bryan\.gradle\caches\8.8\transforms\5d6bcc831bb7fbe537a65d55f24ce6d0\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+95        </provider>
+96
+97        <meta-data
+97-->[com.facebook.soloader:soloader:0.11.0] C:\Users\bryan\.gradle\caches\8.8\transforms\8af7816c87096248c10fec2f6ac0967c\transformed\soloader-0.11.0\AndroidManifest.xml:12:9-14:37
+98            android:name="com.facebook.soloader.enabled"
+98-->[com.facebook.soloader:soloader:0.11.0] C:\Users\bryan\.gradle\caches\8.8\transforms\8af7816c87096248c10fec2f6ac0967c\transformed\soloader-0.11.0\AndroidManifest.xml:13:13-57
+99            android:value="false" />
+99-->[com.facebook.soloader:soloader:0.11.0] C:\Users\bryan\.gradle\caches\8.8\transforms\8af7816c87096248c10fec2f6ac0967c\transformed\soloader-0.11.0\AndroidManifest.xml:14:13-34
+100    </application>
+101
+102</manifest>

@@ -1,0 +1,46 @@
+# React Native
+node_modules/
+android/.gradle/
+android/.idea/
+android/build/
+ios/Pods/
+ios/build/
+*.iml
+*.hprof
+*.log
+*.tgs
+*.tmproj
+*.tmtags
+.DS_Store
+
+# macOS
+*.DS_Store
+
+# Android
+*.apk
+*.ap_
+*.dex
+*.class
+*.so
+*.o
+*.obj
+*.log
+*.hprof
+*.orig
+*.pyc
+*.pyo
+*.d
+*.swo
+*.swp
+.local.properties
+
+# iOS
+.DS_Store
+*.swp
+*.xcuserdata
+*.xccheckout
+*.xcodeproj/*
+*.xcworkspace/*
+*.idea
+*.log
+*.orig
